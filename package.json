@@ -1,0 +1,19 @@
+{
+  "name": "mymod",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Mymod.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/art2203/mymod.git"
+  },
+  "author": "Alireza Taheri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/art2203/mymod/issues"
+  },
+  "homepage": "https://github.com/art2203/mymod#readme"
+}
